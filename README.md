@@ -11,4 +11,4 @@ Team Members:<br/>
 Project Link:<br/>
 https://org.modao.cc/app/cd284791a7cbd9e1cd57490171339f81
 
-<img src="./Project-QRcode.PNG"></img>
+<img src="./Project-QRcode.png"></img>
